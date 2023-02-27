@@ -4,7 +4,7 @@
     text-align: center;
     margin: auto;
     margin-top: 20vh;
-    background: lightblue;
+    background: rgb(138, 127, 255);
     border-radius: 10px;
 }
 
@@ -20,7 +20,7 @@ input{
 }
 button{
     font-size: 20px;
-    background: aquamarine;
+    background: rgb(255, 225, 54);
     width: 40px;
     height: 40px;
     border: 2px solid black;
